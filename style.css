@@ -1,0 +1,45 @@
+.carousel{
+    max-width:100%;
+    height: auto;
+	margin: 0 auto;
+}
+
+.image{
+    width: 1000px;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.item{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* @keyframes stretch{
+    0%{
+        float: left;
+    }
+    100%{
+        float: right;
+    }
+}
+
+.animation {
+    animation-name: stretch;
+    animation-timing-function: ease-in;
+    animation-duration: 1.5s;
+    animation-direction: normal;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+} */
+
+/* .transition{
+    transition:ease-in 1.5s 
+} */
